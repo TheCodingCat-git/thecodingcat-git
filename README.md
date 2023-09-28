@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodingcat-git&show_icons=true&locale=en" alt="thecodingcat-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodingcat-git&" alt="thecodingcat-git" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecodingcat-git" alt="thecodingcat-git" /></p>
